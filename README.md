@@ -39,36 +39,23 @@ The experience takes place in a **villa backyard and basketball court**, allowin
 ---
 
 ## 📁 Project Structure
-
 Assets/
-
-+---Prefabs
-|       PFB_Building_Full.prefab
-|       PFB_Building_Full.prefab.meta
-|       PlayerFPS.prefab
-|       PlayerFPS.prefab.meta
-|       Room.prefab
-|       Room.prefab.meta
-|       
-+---Scenes
-|       AmericanHome_Backyard.unity
-|       AmericanHome_Backyard.unity.meta
-|       
-+---Scripts
-|       HoopTrigger.cs
-|       HoopTrigger.cs.meta
-|       LightSwitchController.cs
-|       LightSwitchController.cs.meta
-|       ScoreManager.cs
-|       ScoreManager.cs.meta
-+---Tools
-|   |   Door_2.05x0.9.prefab
-|   |   Door_2.05x0.9.prefab.meta
-|   |   Human_1.75m.prefab
-|   |   Human_1.75m.prefab.meta
-|   |   Ruler_1m.prefab
-|   |   Ruler_1m.prefab.meta
-|   |   TutorialInfo.meta
-|   |   XR Origin Hands (XR Rig).prefab
-|   |   XR Origin Hands (XR Rig).prefab.meta
-|   |   
+├── Prefabs/
+│ ├── PFB_Building_Full.prefab
+│ ├── PlayerFPS.prefab
+│ ├── Room.prefab
+│
+├── Scenes/
+│ └── AmericanHome_Backyard.unity
+│
+├── Scripts/
+│ ├── HoopTrigger.cs
+│ ├── LightSwitchController.cs
+│ └── ScoreManager.cs
+│
+└── Tools/
+├── Door_2.05x0.9.prefab
+├── Human_1.75m.prefab
+├── Ruler_1m.prefab
+├── XR Origin Hands (XR Rig).prefab
+└── TutorialInfo.meta
