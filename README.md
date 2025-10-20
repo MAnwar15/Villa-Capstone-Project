@@ -1,8 +1,8 @@
 # 🏠 Villa Capstone Project — Unity 6.2 VR
 
-**Author:** Muhannad Anwar & Team  
+**Author:** Muhannad Anwar 
 **Instructor:** Eng. Hatem Heshmat  
-**Course:** Professional 3D & VR Designer — Module 1  
+**Course:** Professional 3D & VR Designer — Module 1
 **Date:** October 2025  
 
 ---
@@ -17,12 +17,11 @@ The experience takes place in a **villa backyard and basketball court**, allowin
 
 ## 🧱 Features Implemented
 
-✅ VR player setup with **teleportation and snap turning**  
-✅ **Hand grabbing** and object manipulation system  
-✅ **Audio interaction** (Walkman + tape system)  
-✅ Basketball court scene with **realistic lighting** and **reflections**  
-✅ Optimized **URP rendering** for standalone VR  
-✅ Modular scene design for future story expansion  
+✅ Player locomotion (continuous + snap turn)
+✅ Hand grabbing and object manipulation
+✅ Ray interactor with UI canvas
+✅ Basic lighting and skybox setup
+✅ Optimized performance for Quest 2/3
 
 ---
 
@@ -41,3 +40,35 @@ The experience takes place in a **villa backyard and basketball court**, allowin
 
 ## 📁 Project Structure
 
+Assets/
+
++---Prefabs
+|       PFB_Building_Full.prefab
+|       PFB_Building_Full.prefab.meta
+|       PlayerFPS.prefab
+|       PlayerFPS.prefab.meta
+|       Room.prefab
+|       Room.prefab.meta
+|       
++---Scenes
+|       AmericanHome_Backyard.unity
+|       AmericanHome_Backyard.unity.meta
+|       
++---Scripts
+|       HoopTrigger.cs
+|       HoopTrigger.cs.meta
+|       LightSwitchController.cs
+|       LightSwitchController.cs.meta
+|       ScoreManager.cs
+|       ScoreManager.cs.meta
++---Tools
+|   |   Door_2.05x0.9.prefab
+|   |   Door_2.05x0.9.prefab.meta
+|   |   Human_1.75m.prefab
+|   |   Human_1.75m.prefab.meta
+|   |   Ruler_1m.prefab
+|   |   Ruler_1m.prefab.meta
+|   |   TutorialInfo.meta
+|   |   XR Origin Hands (XR Rig).prefab
+|   |   XR Origin Hands (XR Rig).prefab.meta
+|   |   
