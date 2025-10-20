@@ -1,0 +1,11 @@
+{
+    "asset": "76618f7490c40334fa7b685859587d2e",
+    "fileName": "01998765-957b-72a1-9632-955e0338581c_Preview.png",
+    "prompt": "basketball",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 243963343,
+    "w3CTraceId": "b927f007aa5e2753bef7eba8e843305b",
+    "refinementMode": "Generation"
+}
