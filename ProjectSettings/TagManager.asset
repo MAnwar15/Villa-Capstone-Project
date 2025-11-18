@@ -29,6 +29,7 @@ TagManager:
   - QDSUIToggleCheckboxRadio
   - QDSUITextInputField
   - Basketball
+  - Hat
   layers:
   - Default
   - TransparentFX
@@ -59,7 +60,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Hat
   - XR Simulation
   - 
   m_SortingLayers:
