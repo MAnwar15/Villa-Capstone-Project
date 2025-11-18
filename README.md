@@ -1,6 +1,6 @@
 # 🏠 Villa Capstone Project — Unity 6.2 VR
 
-**Author:** Muhannad Anwar & Hussaen Alaa
+**Author:** Muhannad Anwar & Hussaen Alaa  
 **Instructor:** Eng. Hatem Heshmat  
 **Course:** Professional 3D & VR Designer — Module 1  
 **Date:** October 2025  
